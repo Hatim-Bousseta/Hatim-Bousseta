@@ -4,9 +4,8 @@
 
 
 
-
- **Who I Am**  
-Cybersecurity student @ ENSA Tetouan 🇲🇦 focused on:
+ 
+Cybersecurity & Embedded Systems student @ ENSA Tetouan 🇲🇦 focused on:
 
 - 🔍 DFIR , SOC
 - 📟 Embedded systems & IoT security 
